@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;cmpe273-assignment3&gt;">
+    <CLASSES>
+      <root url="file://C:/Go/bin/src/gopkg.in" />
+      <root url="file://C:/Go/bin/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://C:/Go/bin/src/github.com/anweiss/uber-api-golang/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://C:/Go/bin/src/github.com/gorilla/handlers/.git" />
+      <root url="file://C:/Go/bin/src/github.com/r-medina/go-uber/.git" />
+      <root url="file://C:/Go/bin/src/github.com/bitly/go-simplejson/.git" />
+      <root url="file://C:/Go/bin/src/github.com/skratchdot/open-golang/.git" />
+      <root url="file://C:/Go/bin/src/gopkg.in/mgo.v2/.git" />
+      <root url="file://C:/Go/bin/src/github.com/gorilla/mux/.git" />
+      <root url="file://C:/Go/bin/src/github.com/gorilla/context/.git" />
+      <root url="file://C:/Go/bin/src/github.com/jmoiron/jsonq/.git" />
+      <root url="file://C:/Go/bin/src/github.com/sithu/json-rpc-example/.git" />
+      <root url="file://C:/Go/bin/src/github.com/bakins/net-http-recover/.git" />
+      <root url="file://C:/Go/bin/src/github.com/gorilla/rpc/.git" />
+      <root url="file://C:/Go/bin/src/github.com/julienschmidt/httprouter/.git" />
+      <root url="file://C:/Go/bin/src/github.com/justinas/alice/.git" />
+    </excluded>
+  </library>
+</component>
